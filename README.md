@@ -21,4 +21,7 @@
 ##软件工程 C# js C++ python AI Unity 计算机图形学 ...
 ##(Software Engineer, C#, js, C++, python, AI, Unity, 计算机图形学 etc.)
 
-Email:fancybit@qq.com fancybit@gmail.com tencent://message/?uin=148332727&Site=github&Mengu=yes
+Contact
+fancybit@qq.com
+fancybit@gmail.com
+QQ:148332727
