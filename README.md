@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @fancybit
-- 👀 I’m interested in Game Develop, Unity3D, C# tech stack and many other intresting developping works.
-- 🌱 I’m currently learning TypeScript, React, Machine Learning
-- 💞️ I’m looking to collaborate on 
-- 📫 My email: fancybit@qq.com my site: www.fancybit.top
+中文名:
+比特如诗
+吟游赛博空间 谱写01诗篇
 
-<!---
-fancybit/fancybit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+九命狸花猫
+人生九死犹未悔 猫步六道轮回间
+
+English Name：
+fancybit
+Robert Jane
+
+人类命运共同体文化战线战士，共产主义者，理想是加入美国共产党为世界人民大团结而奋斗。
+人类命运共同体文化战线战士，共产主义者，理想是加入美国共产党为世界人民大团结而奋斗。
