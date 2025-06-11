@@ -19,7 +19,7 @@ A fighter on the cultural frontline of the fate of humanity community0, a commun
 
 # 技能(Skill)：
 软件工程 C# js C++ python AI Unity 计算机图形学 ...  
-(Software Engineer, C#, js, C++, python, AI, Unity, 计算机图形学 etc.)  
+Software Engineer, C#, js, C++, python, AI, Unity, 计算机图形学 etc.
 
 # 联系方式(Contact)
 fancybit@qq.com  
