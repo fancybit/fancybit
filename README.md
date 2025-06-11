@@ -10,12 +10,12 @@ fancybit
 Robert Jane  
 
 # 简介
-中国河南人，1987年出生。
-人类命运共同体文化战线战士。
+中国河南人，1987年出生。   
+人类命运共同体文化战线战士。   
 
 # Intro  
-From Henan Province, China. Born in 1987.  
-A fighter on the cultural frontline of the fate of humanity community.
+From Henan Province, China. Born in 1987.   
+A fighter on the cultural frontline of the fate of humanity community.  
 
 # 技能(Skill)：
 软件工程 C# js C++ python AI Unity 计算机图形学 ...  
