@@ -28,4 +28,4 @@ QQ:148332727
 
 # 捐赠(Donation)
 微信收款（wechat):
-![微信收款码](https://imgloc.com/image/W7jpe)
+![微信收款码](https://i.imgs.ovh/2025/07/25/W7jpe.png)
