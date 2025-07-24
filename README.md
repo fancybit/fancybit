@@ -28,4 +28,4 @@ QQ:148332727
 
 # 捐赠(Donation)
 微信收款（wechat):
-![微信收款码](blob:https://github.com/62f8bd38-cfa7-4009-b8be-0d4a381f6188)
+![微信收款码](https://github.com/62f8bd38-cfa7-4009-b8be-0d4a381f6188)
