@@ -7,7 +7,7 @@
 
 # English Name：
 fancybit  
-Robert Jane  
+Robert Zhang
 
 # 简介
 中国河南人，1987年出生。   
